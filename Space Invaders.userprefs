@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MoveLeftAndRight.cs">
+    <Files>
+      <File FileName="Assets\BulletAI.cs" Line="26" Column="2" />
+      <File FileName="Assets\EnemyAI.cs" Line="24" Column="96" />
+      <File FileName="Assets\MoveLeftAndRight.cs" Line="17" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
